@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    color: red;
+}
+.d1{
+    background-color: #000000;
+}
+
+.bulb-img{
+    width: 100px;
+}
+.cat-img{
+    width: 200px;
+}
